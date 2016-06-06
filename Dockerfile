@@ -1,7 +1,7 @@
 # QEMU/KVM 
 # VERSION 0.5
-FROM ubuntu:trusty
-MAINTAINER ulexus@gmail.com
+FROM ubuntu:vivid
+MAINTAINER q3k@q3k.org
 
 ENV ETCDCTL_VERSION v2.0.9
 ENV ETCDCTL_ARCH linux-amd64
