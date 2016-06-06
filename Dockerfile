@@ -1,6 +1,6 @@
 # QEMU/KVM 
 # VERSION 0.5
-FROM ubuntu:vivid
+FROM ubuntu:xenial
 MAINTAINER q3k@q3k.org
 
 ENV ETCDCTL_VERSION v2.0.9
